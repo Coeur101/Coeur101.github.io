@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CoeurBlog</title>
+  
+  <subtitle>记录废物的当下生活</subtitle>
+  <link href="http://www.coeurxx.space/atom.xml" rel="self"/>
+  
+  <link href="http://www.coeurxx.space/"/>
+  <updated>2022-04-28T12:16:14.052Z</updated>
+  <id>http://www.coeurxx.space/</id>
+  
+  <author>
+    <name>Coeur</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建博客之旅(艰辛版)</title>
+    <link href="http://www.coeurxx.space/posts/f0214f1.html"/>
+    <id>http://www.coeurxx.space/posts/f0214f1.html</id>
+    <published>2022-04-27T05:20:26.000Z</published>
+    <updated>2022-04-28T12:16:14.052Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;搭建博客的方法&lt;/h1&gt;</summary>
+    
+    
+    
+    <category term="博客搭建方法" scheme="http://www.coeurxx.space/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/"/>
+    
+    
+    <category term="博客搭建方法" scheme="http://www.coeurxx.space/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>搭建博客之旅(艰辛版)</title>
+    <url>/posts/f0214f1.html</url>
+    <content><![CDATA[<h1>搭建博客的方法</h1>
+<span id="more"></span>
+<h2 id="1、为什么搭建博客">1、为什么搭建博客</h2>
+<p>因为心血来潮的想法， 想搭建一个博客来丰富自己的日常生活。也想培养一下做笔记的习惯，从一个菜鸟过度到另外一个菜鸟，不能再堕落了！</p>
+<h2 id="2、博客搭建过程">2、博客搭建过程</h2>
+<p>​	1、程序🐏</p>
+<p>​		我使用的博客为Hexo的博客模板，然后通过去B站搜寻到的教程，我推荐程序🐏（CodeSheep）的博客搭建教程。</p>
+<p>[<a class="link"   href="https://www.bilibili.com/video/BV1Yb411a7ty?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.clic" >https://www.bilibili.com/video/BV1Yb411a7ty?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.clic<i class="fas fa-external-link-alt"></i></a>]:</p>
+<p>​		假如你是windows系统的搭建，建议开弹幕食用，windows中很多命令都是和Linux不一样的，弹幕大佬会告诉我们遇到的常见错	误，假如你没有找到，还是移步到百度把。</p>
+<p>​	2、csdn</p>
+<p>​		如果不想看视频版的博客搭建可以在csdn找到文字版的详细教程，我这里推荐：</p>
+<p>[<a class="link"   href="https://blog.csdn.net/sinat_37781304/article/details/82729029?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165098347916782350983086%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=165098347916782350983086&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-82729029-null-null-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-82729029.142%5Ev9%5Epc_search_result_cache,157%5Ev4%5Econtrol&amp;utm_term=hexo+%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2&amp;spm=1018.2226.3001.4187" >https://blog.csdn.net/sinat_37781304/article/details/82729029?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165098347916782350983086%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=165098347916782350983086&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-82729029-null-null-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-82729029.142^v9^pc_search_result_cache,157^v4^control&amp;utm_term=hexo+博客部署&amp;spm=1018.2226.3001.4187<i class="fas fa-external-link-alt"></i></a>]:</p>
+<p>hexo博客有非常多的样式选择，我选择的是插件与集成最多的next的主题，然后next主题中也有4大样式选择，具体怎么选择还得看你的喜好与审美，通过百度来丰富你的博客样式，与实现你想实现的功能。</p>
+<h2 id="3、评论系统">3、评论系统</h2>
+<p>​		hexo next主题内部支持valine匿名版评论系统，当然还有waline基于valine更加完善的评论系统，Twikoo评论系统也是一个不错的选择，但是至今我还没看到使用next搭建Twikoo评论系统的教程，应该还没普及吧。</p>
+<p>要是还想完善Valine评论系统，比如邮件提醒、管理评论等等，可以去Valine-Admin进行设置，csdn有完整的教程：</p>
+<p>[<a class="link"   href="https://blog.csdn.net/wugenqiang/article/details/105744843?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165098353216781685384636%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=165098353216781685384636&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-105744843-null-null-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-105744843.142%5Ev9%5Epc_search_result_cache,157%5Ev4%5Econtrol&amp;utm_term=hexo+next+valine&amp;spm=1018.2226.3001.4187" >https://blog.csdn.net/wugenqiang/article/details/105744843?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165098353216781685384636%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&amp;request_id=165098353216781685384636&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-105744843-null-null-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-105744843.142^v9^pc_search_result_cache,157^v4^control&amp;utm_term=hexo+next+valine&amp;spm=1018.2226.3001.4187<i class="fas fa-external-link-alt"></i></a>]:</p>
+<h2 id="4、各种报错">4、各种报错</h2>
+<p>​		在你没有前端知识的情况下，千万不要自己随意的改next主题内部的样式表的值，不然部署与解析文件时非常多的报错。最常见的报错就是在部署到GitHub仓库时出现的报错。</p>
+<p>当出现以下报错：</p>
+<figure class="highlight roboconf"><table><tr><td class="code"><pre><span class="line">FATAL &#123;</span><br><span class="line">  <span class="attribute">err</span>: Error: Spawn failed</span><br><span class="line">      at ChildProcess.&lt;anonymous&gt; (E:\blog\node_modules\hexo-util\lib\spawn<span class="variable">.js</span>:51:21)</span><br><span class="line">      at ChildProcess<span class="variable">.emit</span> (node:events:526:28)</span><br><span class="line">      at ChildProcess<span class="variable">.cp</span><span class="variable">.emit</span> (E:\blog\node_modules\cross-spawn\lib\enoent<span class="variable">.js</span>:34:29)</span><br><span class="line">      at Process<span class="variable">.ChildProcess</span><span class="variable">._handle</span><span class="variable">.onexit</span> (node:internal/child_process:291:12) &#123;</span><br><span class="line">    code: 128</span><br><span class="line">  &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>删除博客根目录下.deploy_git的文件夹，然后在git bash下或者在cmd窗口打下：</p>
+<p>git config --global core.autocrlf false</p>
+<p>然后再打入命令 hexo clean&amp;&amp; hexo g &amp;&amp; hexo d</p>
+<h2 id="5、设置域名">5、设置域名</h2>
+<p>​		当你在上述步骤中创建成功了博客，且通过你的http://yourname.github.iod可以进入你的博客，但是你想自定义你的网站域名，可以通过阿里云域名注册进行操作。</p>
+<p>​		后缀不同域名的价格也不同，你需要先进行实名认证，然后购买属于你的域名。</p>
+<p>​		购买后点击右上角的控制台</p>
+<p>​		点击域名&gt;点击全部域名&gt;点击解析&gt;点击添加记录</p>
+<p>​		记录类型：CNAME</p>
+<p>​		主机记录：@</p>
+<p>​		解析线路：默认</p>
+<p>​		记录值：<a class="link"   href="http://yourname.github.io" >yourname.github.io<i class="fas fa-external-link-alt"></i></a></p>
+<p>​		点击确认</p>
+<p>​		可以再添加一条将@改为www，其余不变。</p>
+<p>​		登录<a class="link"   href="https://github.com/" >GitHub<i class="fas fa-external-link-alt"></i></a>，选择你创建的仓库，点击settings，点击pages，设置Custom domain，输入你购买的域名</p>
+<p>然后在你的博客文件source中创建一个名为CNAME文件，不要后缀。写上你的域名。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/QQ%E6%88%AA%E5%9B%BE20220427152809.png"
+                      alt=""
+                ></p>
+<p>这样你就可以通过你购买的域名来访问你的博客了</p>
+<h2 id="6、总结">6、总结</h2>
+<p>​		总体来说hexo的搭建博客难度并不大，且百度，CSDN等平台上有非常完整的样式设置的方法与教程，如果你还想将自己的博客变得更加高大上，就得通过自己的摸索来一点点的修改，博客都是慢慢完善才能变得功能强大。</p>
+<p>以上就是博客搭建的总体方法，我搭建的时候真是困难重重，还是太垃圾了。</p>
+]]></content>
+      <categories>
+        <category>博客搭建方法</category>
+      </categories>
+      <tags>
+        <tag>博客搭建方法</tag>
+      </tags>
+  </entry>
+</search>
