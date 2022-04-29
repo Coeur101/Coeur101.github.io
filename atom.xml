@@ -6,7 +6,7 @@
   <link href="http://www.coeurxx.space/atom.xml" rel="self"/>
   
   <link href="http://www.coeurxx.space/"/>
-  <updated>2022-04-28T12:16:14.052Z</updated>
+  <updated>2022-04-29T05:36:30.992Z</updated>
   <id>http://www.coeurxx.space/</id>
   
   <author>
@@ -21,17 +21,23 @@
     <link href="http://www.coeurxx.space/posts/f0214f1.html"/>
     <id>http://www.coeurxx.space/posts/f0214f1.html</id>
     <published>2022-04-27T05:20:26.000Z</published>
-    <updated>2022-04-28T12:16:14.052Z</updated>
+    <updated>2022-04-29T05:36:30.992Z</updated>
     
     
-    <summary type="html">&lt;h1&gt;搭建博客的方法&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1&gt;搭建博客的方法&lt;/h1&gt;
+&lt;p&gt;&lt;img  
+                     lazyload
+                     src=&quot;/images/loading.svg&quot;
+                     data-src=&quot;/images/QQ%E6%88%AA%E5%9B%BE20220427152809.png&quot;
+                      alt=&quot;&quot;
+                &gt;&lt;/p&gt;</summary>
     
     
     
-    <category term="博客搭建方法" scheme="http://www.coeurxx.space/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/"/>
+    <category term="博客搭建的方法" scheme="http://www.coeurxx.space/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E7%9A%84%E6%96%B9%E6%B3%95/"/>
     
     
-    <category term="博客搭建方法" scheme="http://www.coeurxx.space/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%96%B9%E6%B3%95/"/>
+    <category term="博客搭建" scheme="http://www.coeurxx.space/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   

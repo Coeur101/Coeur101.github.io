@@ -4,6 +4,12 @@
     <title>搭建博客之旅(艰辛版)</title>
     <url>/posts/f0214f1.html</url>
     <content><![CDATA[<h1>搭建博客的方法</h1>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/QQ%E6%88%AA%E5%9B%BE20220427152809.png"
+                      alt=""
+                ></p>
 <span id="more"></span>
 <h2 id="1、为什么搭建博客">1、为什么搭建博客</h2>
 <p>因为心血来潮的想法， 想搭建一个博客来丰富自己的日常生活。也想培养一下做笔记的习惯，从一个菜鸟过度到另外一个菜鸟，不能再堕落了！</p>
@@ -52,10 +58,10 @@
 <p>以上就是博客搭建的总体方法，我搭建的时候真是困难重重，还是太垃圾了。</p>
 ]]></content>
       <categories>
-        <category>博客搭建方法</category>
+        <category>博客搭建的方法</category>
       </categories>
       <tags>
-        <tag>博客搭建方法</tag>
+        <tag>博客搭建</tag>
       </tags>
   </entry>
 </search>
